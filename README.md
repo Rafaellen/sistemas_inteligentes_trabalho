@@ -41,11 +41,9 @@ pip install -r requirements.txt
 💻 Uso
 Execute o fluxo completo:
 
-bash
 python src/main.py
 Ou utilize partes específicas:
 
-python
 from src.preprocessing import load_and_preprocess_data
 from src.clustering import train_kmeans_model
 
