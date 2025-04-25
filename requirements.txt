@@ -1,0 +1,23 @@
+# Bibliotecas essenciais
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.2.5
+matplotlib==3.10.1
+
+# Dependências de suporte
+scipy==1.15.2
+joblib==1.4.2
+threadpoolctl==3.6.0
+
+# Dependências de visualização (opcionais)
+pillow==11.2.1
+cycler==0.12.1
+kiwisolver==1.4.8
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+contourpy==1.3.2
+fonttools==4.57.0
+
+# Dependências de data/hora
+pytz==2025.2
+tzdata==2025.2
